@@ -1,0 +1,10 @@
+WIDTH_SCREEN = 1024
+HEIGHT_SCREEN = 512
+
+COLOR_TRANSPARENT = "transparent"
+COLOR_RED = "red"
+COLOR_BLUE = "blue"
+COLOR_YELLOW = "yellow"
+
+COLOR_BLACK = "#160500"
+COLOR_A = "#fff9f1"
